@@ -14,9 +14,9 @@ const App = () => {
           By{" "}
           <a
             target="_blank"
-            href="https://github.com/lorenzo774"
+            href="https://github.com/MuJtAbAHaSsAn0/memory-card"
           >
-            Lorenzo774
+            Mujtaba-Hassan
           </a>
         </p>
       </footer>

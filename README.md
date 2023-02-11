@@ -15,7 +15,7 @@ The images are AI generated (<i>CC0 license</i>).
 1. Clone and install all the dependencies
 
 ```
-git clone https://github.com/lorenzo774/memory-card.git
+git clone https://github.com/MuJtAbAHaSsAn0/memory-card
 cd memory-card
 npm i
 ```
