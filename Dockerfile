@@ -15,6 +15,7 @@ RUN npm run build
 FROM node:alpine
 
 USER node
+
 EXPOSE 8080
 
 WORKDIR /home/node/app
